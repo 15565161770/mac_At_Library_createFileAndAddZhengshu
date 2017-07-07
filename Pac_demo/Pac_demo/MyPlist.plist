@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IsProduction</key>
+	<false/>
+	<key>Down_Source</key>
+	<string>AppStore</string>
+	<key>Channel</key>
+	<string>Publish channel</string>
+	<key>App_Key</key>
+	<string>e4a3d24f819246a3f39eb0fb</string>
+	<key>VID</key>
+	<integer>0</integer>
+	<key>Request_URL</key>
+	<string>http://10.10.11.52:8081/</string>
+</dict>
+</plist>
